@@ -33,3 +33,7 @@ Navigate to the frontend folder:
 cd project-manager-ui
 npm install
 npm dev run
+
+```
+### Deployment link
+   https://mini-project-manager-ui.vercel.app

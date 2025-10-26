@@ -26,7 +26,7 @@
    ```bash
    dotnet run
 
-### Frontend (React)
+### Frontend (React+ TypeScript)
 Navigate to the frontend folder:
 
 ```bash
